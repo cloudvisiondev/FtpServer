@@ -81,3 +81,4 @@ using (var serviceProvider = services.BuildServiceProvider())
     ftpServerHost.StopAsync().Wait();
 }
 ```
+[![](https://codescene.io/projects/4737/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/4737/jobs/latest-successful/results)
